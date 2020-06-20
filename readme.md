@@ -1,2 +1,2 @@
 #sign-in
-![screenshot](Screenshot/ss1.png)
+![Screenshot](Screenshot/screenshot.png)
